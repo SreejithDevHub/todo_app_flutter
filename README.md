@@ -29,8 +29,8 @@ A simple and functional To-Do List application built with Flutter, using Hive fo
    ```bash
    flutter pub get
 4. Run the app:
-   ``bash
+   ```bash
    flutter run
 
-Contributing
+### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
