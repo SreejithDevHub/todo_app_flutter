@@ -1,16 +1,28 @@
-# todo
+# To-Do List App in Flutter
 
-A new Flutter project.
+A simple and functional To-Do List application built with Flutter, using Hive for local storage. This app allows users to manage their tasks efficiently with features to add, remove, and view tasks.
+
+## Features
+- Add new tasks
+- Remove completed tasks
+- Persistent storage using Hive
+- User-friendly interface
+
+## Screenshots
+![Home Screen](screenshots/home_screen.png)
+![Add Task Screen](screenshots/add_task_screen.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amSreejith/todo_app_flutter.git
+2. cd todo
+3. flutter pub get
+4. flutter run
