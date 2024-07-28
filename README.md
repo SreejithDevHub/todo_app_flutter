@@ -9,8 +9,8 @@ A simple and functional To-Do List application built with Flutter, using Hive fo
 - User-friendly interface
 
 ## Screenshots
-![Home Screen](screenshots/home_screen.png)
-![Add Task Screen](screenshots/add_task_screen.png)
+![Home Screen](/output/screenshots/Home.jpeg)
+![Add Task Screen](/output/screenshots/AddTask.jpeg)
 
 ## Getting Started
 
@@ -23,6 +23,6 @@ A simple and functional To-Do List application built with Flutter, using Hive fo
 1. Clone the repository:
    ```bash
    git clone https://github.com/amSreejith/todo_app_flutter.git
-2. cd todo
-3. flutter pub get
-4. flutter run
+2. ```cd todo
+3. ```flutter pub get
+4.``` flutter run
